@@ -1,0 +1,5 @@
+1. Printer Settings wählt die Anzahl Extruder und Single Extruder Multimaterial
+2. Printer Settings  - Single Extruder MM setup: Cooling Tube position 10, Coling Tube length 5, Filament Parking Position 0, Extra Loading distanz 0
+3. Custom G Code Tool Change  G-Code und schreibt dort M600 hinein.
+4. Print Settings Activiert man den Wipetower. Deactiviert man Prime all Printing Extruders, das ist der unterste Wert.
+5. Stellt die Layerhöhe auf der die Farbegewechselt werden soll und wählt den entsprechenden Extruder dafür aus 
